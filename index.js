@@ -11,4 +11,4 @@ client.on ('ready', ready => {
 	console.log('Estou online!');
 });
 
-client.login('NTk0MzIzOTEwMTYyMzgyODUw.XRaxVg.lrL0V2CpXqHq5T8VeWWaSLRIZWE');
+client.login('seu token');
